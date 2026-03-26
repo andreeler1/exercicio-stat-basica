@@ -1,2 +1,2 @@
-# -exercicio-stat-basica-
+# exercicio-stat-basica
 Exercício 3
